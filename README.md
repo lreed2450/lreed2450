@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Lexi Reed and I am a Business Analyst at  Alter Domus focusing on developing, testing, and fixing reports using SQL, Python, PowerBi, and Excel in the FinTech industry. I have a Bachelor's and Master's degrees in Applied and Computational Mathematics from DePaul University. In my free time, I'm probably learning new data skills, rock climbing, or playing with my cats. Please look around at my pinned repositories to view some of m y projectors and brows other repositories that also look interesting.
+
 <!--
 **lreed2450/lreed2450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
