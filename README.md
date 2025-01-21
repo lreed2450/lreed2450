@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Lexi Reed and I am a Data Analyst on the Data Science team at Strata Decision Technology. I have experience with SQL, Python, PowerBi/Tableau, and Excel in the Healthcare and FinTech industry. I have a Bachelor's and Master's in Applied and Computational Mathematics from DePaul University. 
+My name is Lexi Reed and I am a Data Analyst on the Data Science team at Strata Decision Technology. I have experience with SQL, Python, PowerBi/Tableau, and Excel in the Healthcare and FinTech industry along with a BS and MS in Applied and Computational Mathematics from DePaul University. I love analyzing and exploring data and here is where I share some of my professional and passion projects. 
 
 In my free time, I'm probably learning new data skills, rock climbing, listening to jazz, or playing with my cats. Please look around at my pinned repositories to view some of my projects and browse other repositories that look interesting as well.
 
